@@ -3,10 +3,9 @@
 
   inputs = {
 
-    flake-utils = {
-      url = "github:numtide/flake-utils";
-    };
+    flake-utils.url = "github:numtide/flake-utils";
 
+    # 22.11 doesn't work
     nixpkgs.url = "nixpkgs/nixos-22.11";
 
     # 22.05 works:  
