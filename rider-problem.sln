@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rider-problem", "rider-problem\rider-problem.csproj", "{9EAD95DE-FB8B-41EF-9311-1E728FF227F0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rider-problem", "rider-problem\rider-problem.csproj", "{1AD8564C-A8D2-4EDC-94ED-ADA072D66DDB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +18,13 @@ Global
 		{9EAD95DE-FB8B-41EF-9311-1E728FF227F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9EAD95DE-FB8B-41EF-9311-1E728FF227F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9EAD95DE-FB8B-41EF-9311-1E728FF227F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37219742-5A85-4077-8627-76C70514B8DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37219742-5A85-4077-8627-76C70514B8DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37219742-5A85-4077-8627-76C70514B8DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37219742-5A85-4077-8627-76C70514B8DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AD8564C-A8D2-4EDC-94ED-ADA072D66DDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AD8564C-A8D2-4EDC-94ED-ADA072D66DDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AD8564C-A8D2-4EDC-94ED-ADA072D66DDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AD8564C-A8D2-4EDC-94ED-ADA072D66DDB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
